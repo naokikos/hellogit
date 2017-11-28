@@ -2,5 +2,5 @@
 
 Gitの実習中
 
-Pushの練習
+Conflictの解消法
 
